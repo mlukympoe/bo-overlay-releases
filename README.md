@@ -28,6 +28,8 @@ Windows may show a SmartScreen warning because the installer isn't code-signed (
 
 Bugs / ideas: please write them here or DM me (Discord: rampa88). I'd be glad for any feedback! Known limit: items linked in chat can't be copied in game yet, so they can't be price-checked.
 
+Virus detection report from virustotal.com
+https://www.virustotal.com/gui/file/e82dd6ded253e1fd5e78780fd3b85258f4155fe577e151e72d6bcec679c0cebb/detection
 
 Big thanks to the Broken Oath developers for the public API – this tool wouldn't exist without it.
 Free for personal use, all rights reserved. Made by R4mpa Mckvak.
